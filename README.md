@@ -45,23 +45,5 @@ We envision a world where financial constraints never prevent someone from recei
 
 ## Contact Address
 
-**Smart Contract Address**: `0x[CONTRACT_ADDRESS_TO_BE_DEPLOYED]`
+**Smart Contract Address**: "0x1bd5ec40a4ec0404d801d69afcfbce7926df578a3268d79562792fe93e01c8c3"
 
-**Development Team Contact:**
-- **Email**: healthcare-platform@example.com
-- **Telegram**: @HealthcarePlatformSupport
-- **Discord**: HealthcareFinancing#1234
-- **Twitter**: @HealthcareWeb3
-
-**Technical Support:**
-- **GitHub Issues**: [Repository Issues Page]
-- **Documentation**: [Technical Documentation Link]
-- **Community Forum**: [Community Discussion Forum]
-
-**Partnership Inquiries:**
-- **Business Email**: partnerships@healthcareplatform.com
-- **LinkedIn**: [Company LinkedIn Profile]
-
----
-
-*For immediate support or urgent inquiries, please contact our 24/7 support team through Telegram or Discord. We are committed to providing assistance to both patients and donors using our platform.*
