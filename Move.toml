@@ -1,0 +1,15 @@
+[package]
+name = "Healthcare-Financing-Platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule ="0xa2648ec96f2c7958172595c7c6d60c978e4684eeab603bfaffafabadaf37ea13"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
